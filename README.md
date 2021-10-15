@@ -2,6 +2,9 @@ Banking web application built with JavaScript.
 
 Project built as part of the Udemy course: The Complete JavaScript Course 2021: From Zero to Expert! taught by Jonas Schmedtmann.
 
+You can interact with the application here: 
+https://joeywhalen.github.io/javascript-bankist-app/
+
 You can log in to the app with one of two accounts:
 Account One:
 User: js
